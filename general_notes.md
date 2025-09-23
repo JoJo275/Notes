@@ -18,3 +18,7 @@
 ### Terminal Integrations
 
 - git
+
+### To-do List
+
+1. Finish CS50 Python course
