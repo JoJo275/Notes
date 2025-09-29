@@ -14,6 +14,8 @@
 - Powershell
 - cmd
 - Git Bash
+- Notepad++
+- Xcode
 
 ### Terminal Integrations
 
