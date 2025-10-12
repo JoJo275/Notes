@@ -21,6 +21,14 @@
 
 - git
 
+### Prompts
+
+- Powershell
+- Terminal
+- Git Bash
+- Command Prompt
+- 
+
 ### To-do List
 
 1. Finish CS50 Python course
