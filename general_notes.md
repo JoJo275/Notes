@@ -10,10 +10,6 @@
 
 - VSCode
 - GitHub Desktop
-- Terminal
-- Powershell
-- cmd
-- Git Bash
 - Notepad++
 - Xcode
 
@@ -26,7 +22,7 @@
 - Powershell
 - Terminal
 - Git Bash
-- Command Prompt
+- Command Prompt (cmd)
 - 
 
 ### To-do List
