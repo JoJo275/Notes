@@ -13,6 +13,7 @@ centered around IDE and text editors
 * packages
 * main languages supports
 * operating systems
+* facets of the application
 * debuggers that can be used or are integrated with the IDE/text editor
 * version control that are either integrated or can be used with an IDE/text editor
 * maybe miscellaneous stuff about each IDE/text editor involving what the editor can do, debuggers, integrations, ai integration, linting integration
@@ -42,3 +43,6 @@ can have a miscellaneous after talking about IDEs/text editors and their attribu
 |        |        |                |                 |
 
 The above table is the banner for the website
+
+    **work on website once website development skills are improved**
+- I wonder if there are services or applications for sketching/planning a website
