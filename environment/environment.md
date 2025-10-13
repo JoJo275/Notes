@@ -19,4 +19,26 @@ centered around IDE and text editors
 
 can have a miscellaneous after talking about IDEs/text editors and their attributions
 
+* AI
+* debuggers
+* AI & machine learning tools
+* GUI & Web testing tools
+* etc...
+
 # Website Details
+
+*trying for a visualish model*
+
+|**Home**|**IDEs**|**Text Editors**|**Miscellaneous**|
+|:-------|:------:|:--------------:|----------------:|
+|        |        |                |                 |
+|        |        |                |                 |
+|        |        |                |                 |
+|        |        |                |                 |
+|        |        |                |                 |
+|        |        |                |                 |
+|        |        |                |                 |
+|        |        |                |                 |
+|        |        |                |                 |
+
+The above table is the banner for the website
