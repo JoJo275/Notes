@@ -8,45 +8,45 @@ Lightweight tools mainly for editing source code — often extended with plugins
 
 ### Popular Cross-Platform Editors
 
-Visual Studio Code (VS Code)
+* **Visual Studio Code (VS Code)**
 
-Sublime Text
+* **Sublime Text**
 
-Atom (discontinued but still used)
+* **Atom (discontinued but still used)**
 
-Notepad++ (Windows)
+* **Notepad++ (Windows)**
 
-Vim
+* **Vim**
 
-Neovim
+* **Neovim**
 
-Emacs
+* **Emacs**
 
-Kate (Linux)
+* **Kate (Linux)**
 
-Geany
+* **Geany**
 
-Gedit (Linux GNOME editor)
+* **Gedit (Linux GNOME editor)**
 
-TextMate (macOS)
+* **TextMate (macOS)**
 
-BBEdit (macOS)
+* **BBEdit (macOS)**
 
-Web-Based or Online Editors
+* **Web-Based or Online Editors**
 
-Replit
+* **Replit**
 
-GitHub Codespaces
+* **GitHub Codespaces**
 
-CodeSandbox
+* **CodeSandbox**
 
-Glitch
+* **Glitch**
 
-StackBlitz
+* **StackBlitz**
 
-JSFiddle
+* **JSFiddle**
 
-CodePen
+* **CodePen**
 
 
 
