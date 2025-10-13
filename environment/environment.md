@@ -51,3 +51,4 @@ The above table is the banner for the website
 - I wonder if there are services or applications for sketching/planning a website
 * could make reddit, discord, forum for helping and discussing all things programming (as if there weren't tons already)
 * helpful resource: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments 
+* Think a bit more on the specifics
