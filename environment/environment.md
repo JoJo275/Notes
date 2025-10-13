@@ -17,6 +17,9 @@ centered around IDE and text editors
 * debuggers that can be used or are integrated with the IDE/text editor
 * version control that are either integrated or can be used with an IDE/text editor
 * maybe miscellaneous stuff about each IDE/text editor involving what the editor can do, debuggers, integrations, ai integration, linting integration
+    * open source
+    *notes
+    *
 
 can have a miscellaneous after talking about IDEs/text editors and their attributions
 
@@ -46,3 +49,5 @@ The above table is the banner for the website
 
     **work on website once website development skills are improved**
 - I wonder if there are services or applications for sketching/planning a website
+* could make reddit, discord, forum for helping and discussing all things programming (as if there weren't tons already)
+* helpful resource: https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments 
