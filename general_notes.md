@@ -16,6 +16,7 @@
 ### Terminal Integrations
 
 - git
+- any amount of linters
 
 ### Prompts
 
