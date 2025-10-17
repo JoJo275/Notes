@@ -5,9 +5,9 @@ This document categorizes programming software into major groups — including t
 ---
 
 ## 1. Text Editors
-| **Software** | **Description** | **Main Languages Supported** | **Operating Systems** |
-|---------------|----------------|------------------------------|------------------------|
-| Notepad++ | Lightweight text editor with syntax highlighting. | Many (C, Python, HTML, etc.). | Windows |
+| **Software** | **Description**                                   | **Main Languages Supported** | **Operating Systems** |
+|---------------|--------------------------------------------------|------------------------------|------------------------|
+| Notepad++     | Lightweight text editor with syntax highlighting.| Many (C, Python, HTML, etc.). | Windows |
 | Sublime Text | Fast, customizable text editor. | Many. | Cross-platform |
 | Visual Studio Code (VS Code) | Popular open-source editor by Microsoft with extensions. | All major languages. | Cross-platform |
 | Atom | Hackable text editor built by GitHub. | Many. | Cross-platform |
