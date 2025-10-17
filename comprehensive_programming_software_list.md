@@ -5,21 +5,21 @@ This document categorizes programming software into major groups — including t
 ---
 
 ## 1. Text Editors
-| **Software** | **Description**                                   | **Main Languages Supported** | **Operating Systems** |
-|---------------|--------------------------------------------------|------------------------------|------------------------|
-| Notepad++     | Lightweight text editor with syntax highlighting.| Many (C, Python, HTML, etc.). | Windows |
-| Sublime Text | Fast, customizable text editor. | Many. | Cross-platform |
+| **Software**                 | **Description**                                   | **Main Languages Supported**  | **Operating Systems** |
+|------------------------------|--------------------------------------------------|-------------------------------|-----------------------|
+| Notepad++                    | Lightweight text editor with syntax highlighting.| Many (C, Python, HTML, etc.). | Windows               |
+| Sublime Text                 | Fast, customizable text editor.                  | Many.                         | Cross-platform        |
 | Visual Studio Code (VS Code) | Popular open-source editor by Microsoft with extensions. | All major languages. | Cross-platform |
-| Atom | Hackable text editor built by GitHub. | Many. | Cross-platform |
-| Vim | Keyboard-driven terminal text editor. | All. | Cross-platform |
-| Neovim | Modernized Vim fork. | All. | Cross-platform |
-| Emacs | Extensible editor with Lisp scripting. | All. | Cross-platform |
-| Kate | KDE advanced text editor. | Many. | Linux, Windows |
-| Gedit | Default GNOME text editor. | Many. | Linux |
-| TextMate | macOS native editor. | Many. | macOS |
-| BBEdit | Professional macOS editor. | Many. | macOS |
-| Brackets | Focused on web design and live preview. | HTML, CSS, JS. | Cross-platform |
-| Geany | Lightweight editor with IDE features. | C, C++, Python, etc. | Cross-platform |
+| Atom                         | Hackable text editor built by GitHub. | Many. | Cross-platform |
+| Vim                          | Keyboard-driven terminal text editor.  | All. | Cross-platform |
+| Neovim                       | Modernized Vim fork.                | All. | Cross-platform |
+| Emacs                        | Extensible editor with Lisp scripting. | All. | Cross-platform |
+| Kate                         | KDE advanced text editor. | Many. | Linux, Windows |
+| Gedit                        | Default GNOME text editor. | Many. | Linux |
+| TextMate                     | macOS native editor. | Many. | macOS |
+| BBEdit                       | Professional macOS editor. | Many. | macOS |
+| Brackets                     | Focused on web design and live preview. | HTML, CSS, JS. | Cross-platform |
+| Geany                        | Lightweight editor with IDE features. | C, C++, Python, etc. | Cross-platform |
 
 ---
 
