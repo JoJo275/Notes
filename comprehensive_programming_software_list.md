@@ -2,6 +2,7 @@
 
 This document categorizes programming software into major groups — including text editors, IDEs, compilers, version control tools, database tools, DevOps utilities, and more.
 
+    Please verify all contents before finalization
 ---
 
 ## 1. Text Editors
