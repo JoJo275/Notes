@@ -2,7 +2,7 @@
 
 ## Stuff
 
-*Bolded stuff under stuff*
+**Bolded stuff under stuff**
 
 ### More Stuff
 
