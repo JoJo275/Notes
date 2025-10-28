@@ -2,6 +2,8 @@
 
 This document outlines a series of questions that can be relevant while working through a program (e.g., software development, project management, reviewing code, etc...). These questions help **clarify objectives**, **identify challenges**, **learn**, and **foster team alignment**.
 
+    Some questions may be repeated across sections, as they can be relevant at multiple stages of a program's lifecycle.
+
 ## ❓ General Questions
 
 1. What is the **primary goal** of this program?
