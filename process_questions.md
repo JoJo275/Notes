@@ -44,13 +44,13 @@ This document outlines a series of questions that can be relevant while working 
 - Can I explain the problem clearly in **plain English** or **pseudocode** before touching the keyboard?
 - Am I **reinventing the wheel**, or does a reliable library/framework already exist for this?
 - What's the **simplest way** to achieve this result? (*Simplicity beats cleverness.*)
-- What is the input, and what is the exact expected output?
-- Can I describe the problem in plain English (or pseudocode) before coding it?
-- Have I broken the problem into smaller, manageable parts?
-- What’s the simplest possible version I could build first (MVP / prototype)?
-- Have I checked if a built-in function or library already solves this?
+- What is the **input**, and what is the **exact expected output**?
+- Can I describe the problem in **plain English** (or pseudocode) before coding it?
+- Have I broken the problem into **smaller, manageable parts**?
+- What's the **simplest possible version** I could build first (*MVP / prototype*)?
+- Have I checked if a **built-in function** or library already solves this?
 
-💡 “If you can’t explain what the code should do in words, you can’t write it correctly.”
+💡 ***"If you can't explain what the code should do in words, you can't write it correctly."***
 
 ## 🧠 While Designing the Solution
 
@@ -75,11 +75,11 @@ Here you focus on **clarity**, **maintainability**, and **correctness**.
 - Will **future me** (or a teammate) understand this without context?
 - What **errors might occur** — and how will my program **handle them**?
 - Am I **validating user input** and preventing crashes?
-- Is this code modular, or is everything tangled together?
-- If I change one part, will it break something else?
-- Am I coding for correctness first or cleverness first (and why)?
+- Is this code **modular**, or is everything *tangled together*?
+- If I change one part, will it **break something else**?
+- Am I coding for **correctness first** or *cleverness first* (and why)?
 
-💡 Readable beats clever — especially when debugging your own work later.
+💡 ***Readable beats clever*** — especially when debugging your own work later.
 
 ## 🧪 While Testing & Debugging
 
@@ -92,15 +92,15 @@ Here you focus on **clarity**, **maintainability**, and **correctness**.
 - When I find a bug, do I **understand why** it happened, or just patch it?
 - Can I **reproduce the issue** consistently before fixing it?
 - Does the fix introduce **new side effects**?
-- What exactly is happening versus what I expected to happen?
-- Where’s the first place the program’s behavior diverges from my expectation?
-- Have I tested the smallest possible piece of the program that fails?
-- Can I reproduce the bug consistently?
-- What are the assumptions I’m making — and have I verified them?
-- Have I read the error message carefully (and Googled only after understanding it)?
-- Did I recently change something that could affect this area?
+- What **exactly is happening** versus what I **expected to happen**?
+- Where's the **first place** the program's behavior diverges from my expectation?
+- Have I tested the **smallest possible piece** of the program that fails?
+- Can I **reproduce the bug** consistently?
+- What are the **assumptions** I'm making — and have I **verified them**?
+- Have I **read the error message carefully** (and Googled only *after* understanding it)?
+- Did I recently change something that could **affect this area**?
 
-💡 Debugging is not fixing mistakes — it’s investigating assumptions.
+💡 ***Debugging is not fixing mistakes — it's investigating assumptions.***
 
 ## ⚙️ While Optimizing or Refactoring
 
@@ -112,24 +112,25 @@ Once it works, make it ***beautifully efficient.***
 - Have I **profiled the program**, or am I *guessing* performance bottlenecks?
 - Can I **simplify logic** without losing clarity?
 - Does the new version **pass all previous tests**?
-- Is my solution efficient enough for real-world input sizes?
-- Are there unnecessary computations or nested loops I can simplify?
-- Can this code handle invalid or unexpected input gracefully?
-- Have I written at least minimal tests to verify it works over time?
-- Is my code secure and free from obvious vulnerabilities?
-- Have I cleaned up temporary print statements or debug code?
-- Would this code still make sense to me in three months?
+- Is my solution **efficient enough** for real-world input sizes?
+- Are there **unnecessary computations** or nested loops I can simplify?
+- Can this code handle **invalid or unexpected input** gracefully?
+- Have I written at least **minimal tests** to verify it works over time?
+- Is my code **secure** and free from obvious vulnerabilities?
+- Have I cleaned up **temporary print statements** or debug code?
+- Would this code still **make sense to me** in three months?
 
-💡 “It works” is step one — “It’s solid” is the real goal.
+💡 ***"It works"*** *is step one* — ***"It's solid"*** *is the real goal.*
 
 ## 🔍 Before Committing / Submitting — Communication
 
-- These help ensure professionalism and maintainability.
-- Have I left helpful comments explaining why, not what?
-- Did I write a clear commit message describing the purpose of the change?
-- Have I followed consistent indentation and style guidelines (PEP 8, etc.)?
-- Would I be proud to show this code in an interview or portfolio?
-- If someone else reads this, could they use or modify it confidently?
+These help ensure **professionalism** and **maintainability**.
+
+- Have I left **helpful comments** explaining *why*, not *what*?
+- Did I write a **clear commit message** describing the purpose of the change?
+- Have I followed **consistent indentation** and style guidelines (*PEP 8, etc.*)?
+- Would I be **proud to show** this code in an interview or portfolio?
+- If someone else reads this, could they **use or modify it** confidently?
 
 ## 🤝 While Integrating or Collaborating
 
@@ -146,16 +147,16 @@ Programming isn't just solo — think **team and environment**.
 
 This is how you ***level up*** as a programmer.
 
-- What did I learn from this project or bug?
-- What did I struggle with, and why?
-- Was my plan efficient, or did I waste time on the wrong parts?
-- What part of this code would I refactor if I revisited it later?
-- Did I document my learnings so future projects are smoother?
-- What new concepts or tools could make this easier next time?
+- What did I **learn** from this project or bug?
+- What did I **struggle with**, and why?
+- Was my plan **efficient**, or did I waste time on the wrong parts?
+- What part of this code would I **refactor** if I revisited it later?
+- Did I **document my learnings** so future projects are smoother?
+- What **new concepts or tools** could make this easier next time?
 - What **habits or shortcuts** slowed me down?
 - What **patterns** worked really well here?
 
-💡 Every project is a lab experiment in making yourself a better engineer.
+💡 ***Every project is a lab experiment in making yourself a better engineer.***
 
 ## 🧘 Mindset & Habits
 
