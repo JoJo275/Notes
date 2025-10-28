@@ -1,8 +1,8 @@
-# Process Questions
+# 📝 Process Questions
 
 This document outlines a series of questions that can be relevant while working through a program (e.g., software development, project management, reviewing code). These questions help clarify objectives, identify challenges, and ensure team alignment.
 
-## General Questions
+## ❓ General Questions
 
 1. What is the primary goal of this program?
 2. Who are the key stakeholders involved?
@@ -10,7 +10,7 @@ This document outlines a series of questions that can be relevant while working 
 4. What resources (time, budget, personnel) are available?
 5. How will success be measured?
 
-## Planning and Design
+## 🧩 Planning and Design
 
 1. What are the key features and functionalities required?
 2. How will the user experience be designed?
@@ -18,7 +18,7 @@ This document outlines a series of questions that can be relevant while working 
 4. Are there any potential risks or challenges identified?
 5. How will changes to the plan be managed?
 
-## Development and Implementation
+## 🛠️ Development and Implementation
 
 1. What is the development methodology (e.g., Agile, Waterfall)?
 2. How will tasks be assigned and tracked?
@@ -26,7 +26,7 @@ This document outlines a series of questions that can be relevant while working 
 4. How will communication be maintained among team members?
 5. What is the plan for deployment and release?
 
-## Evaluation and Feedback
+## 📊 Evaluation and Feedback
 
 1. How will user feedback be collected and analyzed?
 2. What metrics will be used to evaluate success?
@@ -34,7 +34,7 @@ This document outlines a series of questions that can be relevant while working 
 4. What is the process for ongoing maintenance and support?
 5. How will the program be adapted based on feedback and changing needs?
 
-## Before Writing Any Code — Understanding the Problem
+## 🔍 Before Writing Any Code — Understanding the Problem
 
 This is where real programming begins. Code is just the final step.
 
@@ -45,7 +45,7 @@ This is where real programming begins. Code is just the final step.
 - Am I reinventing the wheel, or does a reliable library/framework already exist for this?
 - What’s the simplest way to achieve this result? (Simplicity beats cleverness.)
 
-## While Designing the Solution
+## 🧠 While Designing the Solution
 
 Think about *how* to structure your logic.
 
@@ -56,7 +56,7 @@ Think about *how* to structure your logic.
 - What are the assumptions I’m making, and are they safe?
 - If someone else reads this code, would they understand the logic quickly?
 
-## While Writing Code
+## 💻 While Writing Code
 
 Here you focus on clarity, maintainability, and correctness.
 
@@ -69,7 +69,7 @@ Here you focus on clarity, maintainability, and correctness.
 - What errors might occur — and how will my program handle them?
 - Am I validating user input and preventing crashes?
 
-## While Testing & Debugging
+## 🧪 While Testing & Debugging
 
 Great programmers constantly test assumptions.
 
@@ -81,7 +81,7 @@ Great programmers constantly test assumptions.
 - Can I reproduce the issue consistently before fixing it?
 - Does the fix introduce new side effects?
 
-## While Optimizing or Refactoring
+## ⚙️ While Optimizing or Refactoring
 
 Once it works, make it *beautifully efficient.*
 
@@ -92,7 +92,7 @@ Once it works, make it *beautifully efficient.*
 - Can I simplify logic without losing clarity?
 - Does the new version pass all previous tests?
 
-## While Integrating or Collaborating
+## 🤝 While Integrating or Collaborating
 
 Programming isn’t just solo — think team and environment.
 
@@ -103,7 +103,7 @@ Programming isn’t just solo — think team and environment.
 - Am I handling dependencies and environments safely (e.g., virtualenv, package.json, requirements.txt)?
 - Could someone else run my project easily from a fresh setup?
 
-## When Reviewing or Reflecting
+## 🔎 When Reviewing or Reflecting
 
 This is how you *level* up as a programmer.
 
@@ -115,7 +115,7 @@ This is how you *level* up as a programmer.
 - What habits or shortcuts slowed me down?
 - What patterns worked really well here?
 
-## Mindset & Habits
+## 🧘 Mindset & Habits
 
 These keep you sharp, patient, and evolving.
 
@@ -124,3 +124,13 @@ These keep you sharp, patient, and evolving.
 - Am I balancing learning new tech with mastering fundamentals?
 - Am I writing code I’m proud of, not just “code that runs”?
 - Do I stop to refactor when I see messy code — or keep piling on?
+
+## 🧭 Bonus: Meta-Questions for Deep Thinking
+
+For when you want to think like an architect, not just a coder:
+
+- What trade-offs am I making between simplicity and flexibility?
+- Am I solving the problem today, or trying to predict tomorrow’s problems too soon?
+- How would this design scale if 100× more data or users existed?
+- What assumptions about the environment or users does my code make?
+- Could my approach be generalized or reused elsewhere?
