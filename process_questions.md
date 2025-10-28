@@ -1,6 +1,6 @@
 # 📝 Process Questions
 
-This document outlines a series of questions that can be relevant while working through a program (e.g., software development, project management, reviewing code). These questions help **clarify objectives**, **identify challenges**, and **ensure team alignment**.
+This document outlines a series of questions that can be relevant while working through a program (e.g., software development, project management, reviewing code, etc...). These questions help **clarify objectives**, **identify challenges**, **learn**, and **foster team alignment**.
 
 ## ❓ General Questions
 
@@ -9,6 +9,7 @@ This document outlines a series of questions that can be relevant while working 
 3. What are the major **milestones and deadlines**?
 4. What **resources** (time, budget, personnel) are available?
 5. How will **success be measured**?
+6. What are the **potential risks or challenges**?
 
 ## 🧩 Planning and Design
 
@@ -17,6 +18,23 @@ This document outlines a series of questions that can be relevant while working 
 3. What **technologies and tools** will be used?
 4. Are there any potential **risks or challenges** identified?
 5. How will **changes to the plan** be managed?
+6. What are the **dependencies** and how will they be handled?
+7. What are the **data requirements** and how will data be managed?
+8. What are the **security and privacy considerations**?
+9. What is the **scalability plan** for future growth?
+10. What are the **integration points** with existing systems or services?
+11. How will **testing and quality assurance** be conducted?
+12. What is the **maintenance and support** plan post-deployment?
+13. How will **documentation** be created and maintained?
+14. What is the **training plan** for users and staff?
+15. How will **user feedback** be collected and incorporated into the design?
+16. What are the **regulatory or compliance requirements** that need to be addressed?
+17. What is the **backup and disaster recovery** plan?
+18. How will **performance monitoring** be implemented?
+19. What is the **communication plan** for stakeholders throughout the project?
+20. How will **intellectual property** and ownership be managed?
+21. What is the **end-of-life plan** for the program or system?
+22. What happens if we need **more time** or **additional resources**?
 
 ## 🛠️ Development and Implementation
 
@@ -33,6 +51,10 @@ This document outlines a series of questions that can be relevant while working 
 3. How will **lessons learned** be documented and shared?
 4. What is the process for **ongoing maintenance** and support?
 5. How will the program be **adapted** based on feedback and changing needs?
+6. What worked well, and what could be improved for future projects?
+7. What are the **next steps** after evaluation?
+8. How will **long-term success** be ensured?
+9. What are the plans for **future updates or enhancements**?
 
 ## 🔍 Before Writing Any Code — Understanding the Problem
 
