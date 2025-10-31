@@ -6,12 +6,14 @@ This document outlines a series of questions that can be relevant while working 
 
 ## ❓ General Questions
 
-1. What is the **primary goal** of this program?
-2. Who are the **key stakeholders** involved?
-3. What are the major **milestones and deadlines**?
-4. What **resources** (time, budget, personnel) are available?
-5. How will **success be measured**?
-6. What are the **potential risks or challenges**?
+1. Does something **need to be built** at all, or is there an existing solution?
+2. Who is the **target audience** or **end user**?
+3. What is the **primary goal** of this program?
+4. Who are the **key stakeholders** involved?
+5. What are the major **milestones and deadlines**?
+6. What **resources** (time, budget, personnel) are available?
+7. How will **success be measured**?
+8. What are the **potential risks or challenges**?
 
 ## 🧩 Planning and Design
 
