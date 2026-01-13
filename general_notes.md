@@ -13,10 +13,9 @@
 - Notepad++
 - Xcode
 
-### Terminal Integrations
+### Command Line Interfaces
 
-- git
-- any amount of linters
+
 
 ### Prompts
 
