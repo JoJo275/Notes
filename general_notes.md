@@ -15,15 +15,11 @@
 
 ### Command Line Interfaces
 
-
-
-### Prompts
-
 - Powershell
 - Terminal
 - Git Bash
 - Command Prompt (cmd)
-- 
+- git
 
 ### To-do List
 
