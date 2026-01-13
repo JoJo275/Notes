@@ -12,6 +12,7 @@
 - GitHub Desktop
 - Notepad++
 - Xcode
+- VirtualBox
 
 ### Command Line Interfaces
 
@@ -24,7 +25,6 @@
 ### To-do List
 
 1. Finish CS50 Python course
-2. Finish CS50 SQL course
 
 ### Miscellaneous
 
